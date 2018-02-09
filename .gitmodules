@@ -1,0 +1,3 @@
+[submodule "meta-regolith"]
+	path = meta-regolith
+	url = https://github.com/jdswensen/meta-regolith.git
